@@ -1,0 +1,20 @@
+2020-12-20 18:43:18,831 WARN  [SoapUI] Missing folder [C:\Users\AparnaP\Desktop\API Testing1\my-app\ext] for external libraries
+2020-12-20 18:43:19,132 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\AparnaP\soapui-settings.xml]
+2020-12-20 18:43:21,362 INFO  [WsdlProject] Loaded project from [file:/C:/Users/AparnaP/Desktop/API%20Testing1/my-app/Rest-Project-Assignment-soapui-project.xml]
+2020-12-20 18:43:22,165 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [Rest Project Assignment]
+2020-12-20 18:43:22,168 INFO  [SoapUITestCaseRunner] Running Project [Rest Project Assignment], runType = SEQUENTIAL
+2020-12-20 18:43:22,191 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [FlowBasedTesting]
+2020-12-20 18:43:22,219 INFO  [SoapUITestCaseRunner] running step [AccessToken]
+2020-12-20 18:43:27,125 INFO  [log] 392b074de838c46f8be2ef77420605fa9cf7379b
+2020-12-20 18:43:27,182 INFO  [SoapUITestCaseRunner] Assertion [Script Assertion] has status VALID
+2020-12-20 18:43:27,183 INFO  [SoapUITestCaseRunner] running step [Login]
+2020-12-20 18:43:28,077 INFO  [log] upskills_admin
+2020-12-20 18:43:28,097 INFO  [SoapUITestCaseRunner] Assertion [Script Assertion] has status VALID
+2020-12-20 18:43:28,098 INFO  [SoapUITestCaseRunner] running step [AddCustomer]
+2020-12-20 18:43:28,900 INFO  [log] []
+2020-12-20 18:43:28,904 INFO  [SoapUITestCaseRunner] Assertion [Script Assertion] has status VALID
+2020-12-20 18:43:28,905 INFO  [SoapUITestCaseRunner] running step [GetListofCustomers]
+2020-12-20 18:43:29,522 INFO  [log] [26/11/2019]
+2020-12-20 18:43:29,526 INFO  [SoapUITestCaseRunner] Assertion [Script Assertion] has status VALID
+2020-12-20 18:43:29,526 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [FlowBasedTesting], time taken: 6310ms, status: FINISHED
+2020-12-20 18:43:29,530 INFO  [SoapUITestCaseRunner] Project [Rest Project Assignment] finished with status [FINISHED] in 7353ms
